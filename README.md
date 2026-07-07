@@ -35,17 +35,7 @@ The application uses Augmented Reality to display virtual balloons in the user's
 
 ## 🎥 Demo Video
 
-Demo video of the AR Balloon Pop application will be added here.
-
-## 📸 Screenshots
-
-Project screenshots demonstrate the AR gameplay, balloon spawning, score system, and timer functionality.
-
-
-
-## 🏫 Institution
-
-RV University
+🎮 [Click here to watch the AR Balloon Pop Demo Video](Screen%20Recording%202026-06-30%20015920.mp4)
 
 ## 📄 Project
 
