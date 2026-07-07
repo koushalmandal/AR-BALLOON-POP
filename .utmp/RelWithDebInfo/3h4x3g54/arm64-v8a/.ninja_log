@@ -1,0 +1,10 @@
+# ninja log v5
+0	5618	8044671698358926	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	5cc6eea951269417
+727	5649	8044671695633385	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5ab7c4d3f2a430d7
+1524	5653	8044671699432361	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	ed7b1b395c78eca5
+2299	5658	8044671705573252	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ff188af4ad0ba743
+2942	5663	8044671716709984	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5e7732bf0c36167d
+3541	5686	8044671718826604	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7969ec684458b16d
+4210	6458	8044671726568389	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	68692cd92a4e851b
+4928	6882	8044671730783719	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	231345bb1e5f05ab
+6883	8243	8044671744351591	C:/unity games/AR Balloon pop/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3h4x3g54/obj/arm64-v8a/libgame.so	4f02591a3ab101e8
